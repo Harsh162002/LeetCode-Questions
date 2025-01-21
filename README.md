@@ -7,6 +7,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Counting
 |  |
 | ------- |
+| [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -24,4 +26,8 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
