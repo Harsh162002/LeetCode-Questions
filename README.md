@@ -34,4 +34,8 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
