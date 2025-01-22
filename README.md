@@ -30,4 +30,8 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
