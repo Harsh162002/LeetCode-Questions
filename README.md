@@ -6,6 +6,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -16,11 +17,13 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -29,6 +32,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 ## Database
 |  |
@@ -38,4 +42,8 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
