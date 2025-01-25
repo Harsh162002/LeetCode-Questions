@@ -8,6 +8,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | ------- |
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -15,6 +16,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
