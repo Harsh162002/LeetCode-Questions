@@ -11,6 +11,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
