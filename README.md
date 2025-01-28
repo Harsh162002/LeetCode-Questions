@@ -6,6 +6,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 ## Database
