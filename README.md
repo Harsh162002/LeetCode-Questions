@@ -7,6 +7,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
@@ -19,6 +20,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
