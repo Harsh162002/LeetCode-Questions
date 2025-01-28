@@ -50,6 +50,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
 ## Divide and Conquer
