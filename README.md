@@ -18,6 +18,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Harsh162002/LeetCode-Questions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
 | ------- |
