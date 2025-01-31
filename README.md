@@ -13,6 +13,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0229-majority-element-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -38,6 +39,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | ------- |
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -64,4 +66,8 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
