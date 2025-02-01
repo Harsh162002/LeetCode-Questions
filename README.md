@@ -14,6 +14,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
