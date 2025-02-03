@@ -63,6 +63,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0007-reverse-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
