@@ -18,6 +18,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -69,6 +70,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0009-palindrome-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh162002/LeetCode-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
