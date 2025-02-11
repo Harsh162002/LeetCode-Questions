@@ -22,6 +22,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh162002/LeetCode-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -35,6 +36,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -51,6 +53,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
