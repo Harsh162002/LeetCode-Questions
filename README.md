@@ -25,6 +25,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh162002/LeetCode-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Harsh162002/LeetCode-Questions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
@@ -38,6 +39,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,4 +94,5 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
