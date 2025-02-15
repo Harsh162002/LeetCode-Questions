@@ -7,6 +7,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
@@ -32,6 +33,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
