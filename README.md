@@ -37,6 +37,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0033-search-in-rotated-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
@@ -85,6 +86,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0007-reverse-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh162002/LeetCode-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
