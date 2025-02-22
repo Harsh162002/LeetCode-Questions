@@ -14,6 +14,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0035-search-insert-position](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -58,6 +60,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -75,6 +78,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0169-majority-element](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1848-sum-of-unique-elements](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1848-sum-of-unique-elements) |
 ## Database
 |  |
@@ -102,5 +106,6 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
