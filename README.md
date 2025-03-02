@@ -22,6 +22,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0941-sort-array-by-parity](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -68,6 +69,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -113,5 +115,6 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0941-sort-array-by-parity](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
