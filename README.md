@@ -105,6 +105,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Harsh162002/LeetCode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Harsh162002/LeetCode-Questions/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Math
 |  |
 | ------- |
