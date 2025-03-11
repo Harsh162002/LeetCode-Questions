@@ -96,6 +96,7 @@ This repository contains my solutions to problems solved on the LeetCode platfor
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0176-second-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Harsh162002/LeetCode-Questions/tree/master/0595-big-countries) |
